@@ -9,6 +9,7 @@
 - [Blog](http://localhost:1313/blog/index.md): Articles and Announcements
 - [Membership](http://localhost:1313/membership/index.md): Become a Member
 - [Timeline](http://localhost:1313/timeline/index.md): CASSA over the years
+- [Store](http://localhost:1313/merch/index.md): Cool CASSA Clothes™ to wear
 
 ## Site locales
 

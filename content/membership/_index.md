@@ -12,9 +12,6 @@ menu:
     main:
         identifier: membership
         weight: 20 # order in the bar (lower the earlier)
-
-# Allow the use of possibly unsafe HTML code
-renderer.unsafe: true
 ---
 
 

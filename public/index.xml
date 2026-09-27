@@ -9,7 +9,7 @@
     
     
     
-      <lastBuildDate>Mon, 21 Sep 2026 18:01:46 +0800</lastBuildDate>
+      <lastBuildDate>Thu, 24 Sep 2026 14:04:55 +0800</lastBuildDate>
     
     
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -28,7 +28,7 @@
         <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
         
         <guid>http://localhost:1313/blog/2026/l2l/</guid>
-        <description>&lt;h2 id=&#34;l2l&#34;&gt;L2L&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;On the 2nd of September from 11am-2pm in Joondalup Campus, Building 2 Room 126, CASSA ran the 2026 Semester 2 Learn 2 Linux (L2L) workshop.&lt;/p&gt;&#xA;&lt;p&gt;this workshop was led by La &amp;ldquo;Laura&amp;rdquo; Lou, in her first ever workshop. It ran without a hitch using the Docker Labs v1 infastructure to give all the attendees a Linux VM they could connect to through a browser-based webshell.&lt;/p&gt;</description>
+        <description>&lt;h2 id=&#34;l2l&#34;&gt;L2L&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;On the 2nd of September from 11am-2pm in Joondalup Campus, Building 2 Room 126, CASSA ran the 2026 Semester 2 Learn 2 Linux (L2L) workshop.&lt;/p&gt;&#xA;&lt;p&gt;this workshop was led by La &amp;ldquo;Laura&amp;rdquo; Luo, in her first ever workshop. It ran without a hitch using the Docker Labs v1 infastructure to give all the attendees a Linux VM they could connect to through a browser-based webshell.&lt;/p&gt;</description>
       </item>
     <item>
         <title>Industry Connect S25</title>

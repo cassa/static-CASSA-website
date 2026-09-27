@@ -13,6 +13,7 @@ Section pages:
 - [About](/about/): What is CASSA
 - [Blog](/blog/): Articles and Announcements
 - [Membership](/membership/): Become a Member
+- [Store](/merch/): Cool CASSA Clothes™ to wear
 - [Timeline](/timeline/): CASSA over the years
 
 ---

@@ -21,18 +21,18 @@ LLMS index: [llms.txt](/llms.txt)
 
 
 > [!NOTE]
-> CASSA only has records back to 2005, if you have any records that go further back then this, please let us know at [support@cassa.au](mailto:support@cassa.au?subject=Timeline%20Records)
+> CASSA only has records back to 2005, if you have any records that go further back then this, please let us know at [secretary@cassa.au](mailto:secretary@cassa.au?subject=Timeline%20Records)
 
 
 ## 2026
 ---
 
 ### September 2026
-- Nivedha "Missy" [Last Name] steps down from Treasurer, and Monique Cornwall replaces her
+- Nivedha "Missy" Shivakumar steps down from Treasurer, and Monique Cornall replaces her
 - The CASSA Website gets rewritten from Ghost CMS to be in two parts, one dynamic site with three.js, and a static site with Hugo using the OINK theme
 
 ### August 2026
-- CASSA runs L2L hosted by La "Laura" Lou using the docker labs infastructure
+- CASSA runs L2L hosted by La "Laura" Luo using the docker labs infastructure
 
 ### July 2026
 - The ECU Guild, CASSA, Red Room, ISSA, Aviators ECU, Rainbow Connect, AFS, Nippon Connect Society, ECU Tabletop, ECU Women In Business, Stitches and Verbal Itches, ECU Space Club, ECU Well Being, and WIEECU, come together and host Inter Club Bowling
@@ -43,7 +43,7 @@ LLMS index: [llms.txt](/llms.txt)
     - President: Dio Lea
     - Vice-President: Nicole Mortin
     - Secretary: David Thomas
-    - Treasurer: Nivedha "Missy" [Last Name]
+    - Treasurer: Nivedha "Missy" Shivakumar
     - Tech Admin: La "Laura" Luo
 - CASSA officialy launches its Palworld server
 

@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-09-21T18:01:46+08:00</lastmod>
+    <lastmod>2026-09-24T14:04:55+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/technical/</loc>
-    <lastmod>2026-09-21T18:01:46+08:00</lastmod>
+    <lastmod>2026-09-24T14:04:55+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2026-09-21T18:01:46+08:00</lastmod>
@@ -15,10 +15,10 @@
     <lastmod>2026-09-21T18:01:46+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/l2l/</loc>
-    <lastmod>2026-09-21T18:01:46+08:00</lastmod>
+    <lastmod>2026-09-24T14:04:55+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/l2l/</loc>
-    <lastmod>2026-09-21T18:01:46+08:00</lastmod>
+    <lastmod>2026-09-24T14:04:55+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/industry/</loc>
     <lastmod>2026-09-21T18:01:46+08:00</lastmod>
@@ -88,7 +88,9 @@
     <loc>http://localhost:1313/membership/</loc>
     <lastmod>2026-09-21T01:41:13+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/merch/</loc>
+  </url><url>
     <loc>http://localhost:1313/timeline/</loc>
-    <lastmod>2026-09-21T18:01:46+08:00</lastmod>
+    <lastmod>2026-09-24T14:04:55+08:00</lastmod>
   </url>
 </urlset>
